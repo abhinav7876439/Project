@@ -10,9 +10,6 @@ The file named **Report** contains the R markdown file named **Report_Group_3.rm
 
 The file named **Shiny Group 3** contains the R script named **Shiny_app_grp_3.R**. Please set the file **Shiny Group 3** as working directory to run the Shiny app.
 
-**PPT**
-
-The file named **PPT** contains a power point presentation file named **GROUP_3_FINAL_PPT**. If in any case the PPT doesn't work, a .txt file is given containing the google drive link of the PPT.
 
 
 **DATA**
