@@ -1,4 +1,4 @@
-# Colour_Variation_Analysis-
+# Colour Variation Analysis-
 This repository will contain ALL the code, analysis, document and presentation for your group project.
 
 Report
